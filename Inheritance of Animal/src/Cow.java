@@ -1,5 +1,6 @@
 
 public class Cow extends Animal
+{
 public void bearsYoung()
 	{
 	
